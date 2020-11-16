@@ -1,0 +1,5 @@
+To:[Ljava.lang.String;@2be94b0f
+From:another_origin@somewhere
+Subject:Re: Re: Saying hi
+Body:
+Please don't do that just yet!

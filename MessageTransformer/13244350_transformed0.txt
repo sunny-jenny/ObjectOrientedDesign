@@ -1,0 +1,9 @@
+To:[Ljava.lang.String;@d70c109
+From:origin@somewhere.tv
+Subject:Saying hi
+Body:
+Hi someone,
+
+just wanted to say hi.
+
+Bye!
